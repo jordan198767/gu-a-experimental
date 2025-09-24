@@ -1,2 +1,2 @@
-# gu-a-experimental
+# guia-experimental
 actividad realizada en grupo
